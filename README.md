@@ -1,5 +1,3 @@
-# embedded-snake-arm
-Embedded Snake game developed in C on an ARM STR91x (ARM9 architecture) microcontroller using the MCB-STR9 development board. Implemented interrupt-driven input handling and real-time game logic.
 # MCB-STR9 Embedded Interactive LCD Game
 
 This project is an embedded C application developed for the Keil MCB-STR9 evaluation board based on the ARM9 (STR91x) microcontroller architecture.
