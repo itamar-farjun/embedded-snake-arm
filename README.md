@@ -4,6 +4,10 @@ This project is an embedded C application developed for the Keil MCB-STR9 evalua
 
 The system implements a real-time interactive LCD game utilizing multiple hardware peripherals including GPIO, ADC, and a 16x2 character LCD display.
 
+
+https://github.com/user-attachments/assets/66ffda5a-e69d-4ba8-8d8a-d64c9c429c3b
+
+
 ## Features
 - Real-time gameplay on a 16x2 LCD display
 - Player-controlled movement using GPIO push buttons (UP/DOWN)
